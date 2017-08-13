@@ -26,7 +26,7 @@ Description of the Dataset
 
 Number of Instances
 
-      	class 1 59
+	class 1 59
 	class 2 71
 	class 3 48
 
@@ -50,7 +50,7 @@ Number of Instances
 
  Class Distribution: number of instances per class
 
-      	class 1 59
+	class 1 59
 	class 2 71
 	class 3 48
   
