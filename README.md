@@ -58,19 +58,19 @@ Number of Instances
   
   
 Code:
-The python code uses the following libraries:
-Keras
-scikit-learn
-pandas
-matplotlib
+	The python code uses the following libraries:
+	Keras
+	scikit-learn
+	pandas
+	matplotlib
 
 Execution:
-Execution was done on spyder using python 3.5
+	Execution was done on spyder using python 3.5
 
 Feature Scaling:
-Feature Scaling has been applied to the inputs using standard scaler
+	Feature Scaling has been applied to the inputs using standard scaler
 
 Artificial Neural Network used:
-Input layer
-Hidden layer
-Output layer
+	Input layer
+	Hidden layer
+	Output layer
